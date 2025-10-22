@@ -1,0 +1,16 @@
+[
+  {
+    "device"id": "device123",
+    "username": "user1",
+    "password": "pass123",
+    "expiredate": "22-10-2025",
+    "allowoffline": true
+  },
+  {
+    "device"id": "device123",
+    "username": "user1",
+    "password": "pass123",
+    "expiredate": "22-10-2025",
+    "allowoffline": true
+  }
+]
