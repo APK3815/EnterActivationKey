@@ -13,6 +13,13 @@
     "expiresAt": "2025-10-23",
     "allowOffline": true
   },
+{
+    "id": "Device id",
+    "username": "800001015",
+    "password": "12345678",
+    "expiresAt": "2025-10-26",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
