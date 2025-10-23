@@ -7,7 +7,7 @@
     "allowOffline": false
   },
    {
-    "id": "3d852e960fe37035",
+    "id": "device2",
     "username": "gaya",
     "password": "123",
     "expirydate": "2025-10-24",
@@ -21,7 +21,7 @@
     "allowOffline": true
   },
   {
-    "id": "3d852e960fe37035",
+    "id": "device4",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
