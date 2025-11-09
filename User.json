@@ -11,28 +11,28 @@
     "username": "123",
     "password": "123",
     "expirydate": "2025-12-08",
-    "allowOffline": true
+    "allowOffline": false
   },
 {
     "id": "123",
     "username": "123",
     "password": "123",
     "expiresAt": "2025-12-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "123",
     "username": "123",
     "password": "123",
     "expiresAt": "2025-12-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "123",
     "username": "123",
     "password": "123",
     "expiresAt": "2025-12-12",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "device4",
