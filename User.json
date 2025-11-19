@@ -1,44 +1,14 @@
 [
-  {
-    "id": "8f8f395152c55f32",
-    "username": "123",
-    "password": "123",
-    "expiresAt": "2025-11-20",
-    "allowOffline": false
-  },
-   {
-    "id": "123",
-    "username": "123",
-    "password": "123",
-    "expirydate": "2025-12-08",
-    "allowOffline": false
-  },
-{
-    "id": "123",
-    "username": "123",
-    "password": "123",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "123",
-    "username": "123",
-    "password": "123",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "123",
-    "username": "123",
-    "password": "123",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  },
-  {
-    "id": "device4",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-12-12",
-    "allowOffline": false
-  }
+    {
+        "device_id": "4359b2d11a1b99a4",
+        "key": "12345",
+        "expirydate": "20-11-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "01",
+        "key": "12345",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
+    }
 ]
