@@ -150,8 +150,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "299ea8095",
-        "key": "7654135111",
+        "device_id": "Device",
+        "key": "123",
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
@@ -162,9 +162,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "Device",
-        "key": "Key",
-        "expirydate": "20-12-2025",
+        "device_id": "299ea8095",
+        "key": "7654135111",
+        "expirydate": "30-12-2025",
         "Allowoffline": false
     },
     {
